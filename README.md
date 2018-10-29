@@ -1,3 +1,4 @@
-# Invie-github
-Proyecto - Mejores guitarras
-Tus mejores guitarras invisibles by platz
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
